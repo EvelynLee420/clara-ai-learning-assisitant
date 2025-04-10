@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# IDE/Editor specific
+.idea/
+.vscode/
+*.swp
+
+# Data (如果數據過大或敏感，可以取消註解下面幾行)
+# data/raw/
+# data/processed/
+
+# Models (如果模型檔案過大，可以取消註解下面一行)
+# src/models/*.joblib
